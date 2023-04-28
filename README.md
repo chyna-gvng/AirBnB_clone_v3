@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Walter Angoye - [Github](https://github.com/chyna-gvng)
+Walter Angoye - [Github](https://github.com/chyna-gvng)  
 Bevil Mulor - [Github](https://github.com/BevilMulor)
 ## Contribution
 first part of the project: Walter Angoye
